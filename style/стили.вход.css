@@ -1,0 +1,27 @@
+bode{
+  width:80% !important;
+  margin:0 auto !important;
+  color: #000000 !important;
+}
+
+a{
+  text-decoration: none !important;
+  margin:0 10px !important;
+  color: #000000 !important;  
+}
+
+button {
+    width: 300px;
+    height: 40px;
+    background: #bfece9;
+    font: 25px kelt;
+    
+  }
+.vvod{
+    width: 360px;
+    height: 270px;
+    text-align: center;
+    background: #ffffff;
+    font: 20px kelt;
+    border: 2px solid #2adcbc;
+}
